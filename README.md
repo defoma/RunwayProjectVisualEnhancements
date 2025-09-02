@@ -17,4 +17,4 @@ _Visual enhancements for Runway Project._
   * the rest of the afterburning engines in the Runway Project modpack
 
 ## Installation
-* Click the `<> Code` drop-down menu and select `Download Zip`. Navigate to `RunwayProjectVisualEnhancements-main.zip/GameData` and drag `RunwayProjectVisualEnhancements` into `Kerbal Space Program/GameData`.
+* Click the `<> Code` drop-down menu and select `Download Zip`. Navigate to `RunwayProjectVisualEnhancements-main.zip/RunwayProjectVisualEnhancements-main/GameData` and drag `RunwayProjectVisualEnhancements` into `Kerbal Space Program/GameData`.
