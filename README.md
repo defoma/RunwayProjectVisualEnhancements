@@ -1,5 +1,5 @@
-# QuarterScaleSolPatches
-_Patches for the quarter-scale size of the Sol mod by ballisticfox for Kerbal Space Program._
+# RunwayProjectVisualEnhancements
+_Visual enhancements for Runway Project._
 
 ## Features
 * Waterfall plumes for
